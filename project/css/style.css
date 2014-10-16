@@ -1,3 +1,9 @@
 @charset "utf-8";
 .header{ background: #33465d;}
-@media (max-width: 768px) { .container{padding:0; }}
+@media (max-width: 768px) {
+	.container{padding:0; }
+}
+@media (min-width: 1200px) {
+	.header .navbar{ margin-top: 13px;}
+}
+.header .navbar{ margin-bottom: 0;}
