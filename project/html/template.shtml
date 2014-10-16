@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Bootstrap 101 Template</title>
     <!--#include file="inc/common.shtml"-->
+    <!--#include file="inc/ie-js.shtml"-->
   </head>
   <body>
     <h1>你好，世界！  </h1>
