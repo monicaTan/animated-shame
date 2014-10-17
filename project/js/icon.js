@@ -1,11 +1,10 @@
 window.onload = function() {
 	function addIcon(el, entity) {
 		var html = el.innerHTML;
-                // font-family 换成你CSS里对应的值
 		el.innerHTML = '<span style="font-family: \'icomoon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-                        // 你需要把CSS里的类和转义的content值替换到这里来
+
 			'icon-yes:before' : '&#xe607;',
 			'icon-yes-01' : '&#xe608;',
 			'icon-person' : '&#xe609;',
