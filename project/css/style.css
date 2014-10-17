@@ -1,5 +1,6 @@
 @charset "utf-8";
 body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
+/*header*/
 .header{ background: #33465d;}
 .header .navbar-top{ background: #33465d;border-color:#33465d;}
 .header .navbar-default .navbar-brand{ color: white;}
@@ -16,6 +17,18 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {background-color: #24364b;}
 .header .navbar-default .navbar-collapse{ border-color: #24364b;}
+
+/*main*/
+
+.main-inner{margin-top: 47px;}
+.main-left,
+.main-right{ background-color: white; border-radius: 4px;}
+.main-left{ padding: 10px 0;}
+
+
+
+
+
 
 @media (max-width: 768px) {
 	.container{padding:0; }
