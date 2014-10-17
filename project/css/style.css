@@ -20,9 +20,9 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 
 /*main*/
 
-.main-inner{margin-top: 47px;}
+.main-inner{margin-top: 47px; margin-bottom: 20px;}
 .main-left,
-.main-right{ background-color: white; border-radius: 4px;}
+.main-right{ background-color: white; border-radius: 4px; border-bottom: 3px solid #e3e4e8;}
 .main-left{ padding: 10px 0;}
 .ul-left{ margin: 0; padding: 0;}
 .ul-left li{ list-style: none; margin-bottom: 4px;}
@@ -37,7 +37,25 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .hr-line div{ margin: 0 10px 0 36px; height: 1px; border-bottom: 1px dashed #f1f1f3;}
 
 
+.table-title{ background: #f6f8fa; border-radius: 4px 4px 0 0; padding: 8px 5px;}
+.table-title h2{ font-size: 14px; color: #434a54; margin:6px 0 0;}
+.table-title-right{ text-align: right;}
+.table-title-right .monrey-number{ margin-right: 28px;}
+.table-title-right .btn-grey{ background: #a4a9ae; border-color: #a4a9ae; color: white; padding: 6px 24px;}
 
+.table-right{padding: 10px 28px;}
+.table-default > thead > tr > th,
+.table-default > tbody > tr > th,
+.table-default > tfoot > tr > th,
+.table-default > thead > tr > td,
+.table-default > tbody > tr > td,
+.table-default > tfoot > tr > td{ border-top:1px dashed #e3e4e8; font-size: 12px; color: #6c6c6c;}
+.table-default > tbody > tr > td{border-top:none; border-bottom:1px dashed #e3e4e8;}
+.table-default > thead > tr > th{ border-bottom-color: #e3e4e8; font-weight: normal;font-size: 12px;}
+.table-default > thead > tr > th > div{ text-align: center; display: inline-block;}
+.table-default > tbody > tr > td > p{ margin-bottom: 0; line-height: 20px;}
+.table-default > tbody > tr > td > a{ color: #6c6c6c;}
+.table-default > tbody > tr > td > .red-text{ color: #ed5565;}
 
 
 
@@ -47,13 +65,13 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
     padding-top: 15px;
     padding-bottom: 15px;
   }
-  .header .collapse .navbar-login > li > a{padding-left: 10px; padding-right: 10px;}
-  .main-inner{margin-top: 30px;}
-  .ul-left li a{ padding-left: 20px;}
-  .ul-left li a:hover,
+  	.header .collapse .navbar-login > li > a{padding-left: 10px; padding-right: 10px;}
+  	.main-inner{margin-top: 30px;}
+  	.ul-left li a{ padding-left: 20px;}
+  	.ul-left li a:hover,
 	.ul-left li.active a{ padding-left: 16px;}
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	.container{padding:0; }
 	.main-inner{margin-top: 15px;}
 	.ul-left li{margin-bottom: 2px;}
@@ -62,6 +80,11 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 	.ul-left li.active a{ padding-left: 16px;}
 	.main-left{margin-bottom: 10px;}
 	.ul-left li a .icon-chevron-right{margin-right: 0;}
+	.table-title{padding: 6px 0;}
+	.table-title .container-fluid{padding: 0;}
+	.table-title-right {text-align: left;}
+	.table-title-right .monrey-number{ margin-right:10px;}
+	.table-right{padding: 10px 15px;}
 }
 @media (min-width: 1200px) {
 	.header .navbar{ margin-top: 13px;}
