@@ -27,11 +27,11 @@
                     <table class="table table-hover table-default">
                         <thead>
                           <tr>
-                            <th>ID</th>
-                            <th>候选人</th>
+                            <th><div>ID</div></th>
+                            <th><div>候选人</div></th>
                             <th><div>招聘服务顾问<br/>简历| 邀约 | 到达｜录取</div></th>
                             <th><div>职位｜部门<br/>面试时间 | 地点 | 联系人</div></th>
-                            <th>状态</th>
+                            <th><div>状态</div></th>
                           </tr>
                         </thead>
                         <tbody>

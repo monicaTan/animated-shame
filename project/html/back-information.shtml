@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <title>公司信息管理</title>
+    <!--#include file="inc/common.shtml"-->
+    <!--#include file="inc/ie-js.shtml"-->
+  </head>
+  <body>
+    <div class="wrap">
+      <!--#include file="inc/header.shtml"-->
+      <div class="main">
+        <div class="main-inner">
+          <div class="container">
+            <!--#include file="inc/main-left2.shtml"-->
+            <div class="col-xs-12 col-sm-9 col-md-8 col-lg-9">
+              <div class="main-right">
+                <div class="table-title-back">
+                  <div class="container-fluid">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                      <h2>公司信息管理</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="table-right clearfix">
+                  <div class="table-responsive">
+                    <table class="table table-hover table-default">
+                        <thead>
+                          <tr>
+                            <th><div>ID</div></th>
+                            <th><div>公司｜城市<br/>全名 | 规模 | 阶段｜网址</div></th>
+                            <th><div>联系人｜电话</div></th>
+                            <th><div>职位 | 简历 | 邀约<br/>到达｜录用</div></th>
+                            <th><div>注册时间</div></th>
+                            <th><div>操作</div></th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">百度/北京 </a></P>
+                            <P>北京百度科技有限公司</P>
+                            <P>15～50人  成长期</P>
+                            <P><a href="#">http://www.baidu.com</a></P>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">张杰</a></p>
+                              <p>1389232873824</p>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle"><span>09-06</span></td>
+                            <td class="middle"><a class="color-link" href="#">编辑</a> <a class="color-link" href="#">禁止</a></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">百度/北京 </a></P>
+                            <P>北京百度科技有限公司</P>
+                            <P>15～50人  成长期</P>
+                            <P><a href="#">http://www.baidu.com</a></P>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">张杰</a></p>
+                              <p>1389232873824</p>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle"><span>09-06</span></td>
+                            <td class="middle"><a class="color-link" href="#">编辑</a> <a class="color-link" href="#">禁止</a></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">百度/北京 </a></P>
+                            <P>北京百度科技有限公司</P>
+                            <P>15～50人  成长期</P>
+                            <P><a href="#">http://www.baidu.com</a></P>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">张杰</a></p>
+                              <p>1389232873824</p>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle"><span>09-06</span></td>
+                            <td class="middle"><a class="color-link" href="#">编辑</a> <a class="color-link" href="#">禁止</a></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">百度/北京 </a></P>
+                            <P>北京百度科技有限公司</P>
+                            <P>15～50人  成长期</P>
+                            <P><a href="#">http://www.baidu.com</a></P>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">张杰</a></p>
+                              <p>1389232873824</p>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle"><span>09-06</span></td>
+                            <td class="middle"><a class="color-link" href="#">编辑</a> <a class="color-link" href="#">禁止</a></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">百度/北京 </a></P>
+                            <P>北京百度科技有限公司</P>
+                            <P>15～50人  成长期</P>
+                            <P><a href="#">http://www.baidu.com</a></P>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">张杰</a></p>
+                              <p>1389232873824</p>
+                            </td>
+                            <td class="middle">
+                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle"><span>09-06</span></td>
+                            <td class="middle"><a class="color-link" href="#">编辑</a> <a class="color-link" href="#">禁止</a></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                  </div>
+                </div>
+                <div class="page-moudel clearfix">
+                  <!--#include file="inc/pagination.shtml"-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--#include file="inc/footer.shtml"-->
+    </div>
+    <!--#include file="inc/footer-js.shtml"-->
+  </body>
+</html>

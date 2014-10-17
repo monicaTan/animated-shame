@@ -86,7 +86,9 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 
 
 .table-title{ background: #f6f8fa; border-radius: 4px 4px 0 0; padding: 8px 5px;}
-.table-title h2{ font-size: 14px; color: #434a54; margin:6px 0 0;}
+.table-title h2{ font-size: 14px; color: #434a54; margin:10px 0;}
+.table-title-back{ background: white; border-radius: 4px 4px 0 0; padding: 8px 5px; border-bottom: 3px solid #e3e4e8;}
+.table-title-back h2{ font-size: 16px; color: #434a54; margin:10px 0;}
 .table-title-right{ text-align: right;}
 .table-title-right .monrey-number{ margin-right: 28px;}
 .table-title-right .btn-grey{ background: #a4a9ae; border-color: #a4a9ae; color: white; padding: 6px 24px;}
@@ -103,7 +105,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .table > tbody > tr > td.middle,
 .table > tfoot > tr > td.middle{ vertical-align: middle;}
 .table-default > tbody > tr > td{border-top:none; border-bottom:2px dotted #e3e4e8;}
-.table-default > thead > tr > th{ border-bottom-color: #e3e4e8; font-weight: normal;font-size: 12px; white-space: nowrap;}
+.table-default > thead > tr > th{ vertical-align: middle; border-bottom-color: #e3e4e8; font-weight: normal;font-size: 12px; white-space: nowrap;}
 .table-default > thead > tr > th > div{ text-align: center; display: inline-block;}
 .table-default > tbody > tr > td > p{ margin-bottom: 0; line-height: 20px;}
 .table-default > tbody > tr > td a{ color: #6c6c6c;}
@@ -153,6 +155,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 	.main-left{margin-bottom: 10px;}
 	.ul-left li a .icon-chevron-right{margin-right: 0;}
 	.table-title{padding: 6px 0;}
+	.table-title h2{ margin:10px 15px;}
 	.table-title .container-fluid{padding: 0;}
 	.table-title-right {text-align: left;}
 	.table-title-right .monrey-number{ margin-right:10px;}
