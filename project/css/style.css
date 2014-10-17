@@ -71,7 +71,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
   	.ul-left li a:hover,
 	.ul-left li.active a{ padding-left: 16px;}
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 	.container{padding:0; }
 	.main-inner{margin-top: 15px;}
 	.ul-left li{margin-bottom: 2px;}
@@ -84,6 +84,9 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 	.table-title .container-fluid{padding: 0;}
 	.table-title-right {text-align: left;}
 	.table-title-right .monrey-number{ margin-right:10px;}
+	.table-right{padding: 10px 15px;}
+}
+@media (max-width: 980px) {
 	.table-right{padding: 10px 15px;}
 }
 @media (min-width: 1200px) {
