@@ -8,46 +8,10 @@
   </head>
   <body>
     <div class="wrap">
-      <div class="header">
-        <div class="container">
-          <div class="col-xs-12 col-sm-3 col-md-4 col-lg-3 hidden-xs">
-            <a href="#"><img class="img-responsive" src="../images/logo1.jpg" alt="才库网"></a>
-          </div>
-          <div class="col-xs-12 col-sm-9 col-md-8 col-lg-9">
-            <nav class="navbar navbar-default navbar-top" role="navigation">
-              <div class="container-fluid">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
-                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                  </button>
-                  <a class="navbar-brand visible-xs" href="#">才库网</a>
-                </div>
-
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                  <ul class="nav navbar-nav">
-                    <li class="nav-first active"><a href="#">我是企业</a></li>
-                    <li><a href="#">我是招聘顾问</a></li>
-                  </ul>
-                  <ul class="nav navbar-nav navbar-right navbar-login">
-                    <li><a href="#"><i class="fa fa-power-off"></i> 登录</a></li>
-                    <li class="hidden-xs"><span>/</span></li>
-                    <li><a href="#">注册</a></li>
-                  </ul>
-                </div><!-- /.navbar-collapse -->
-              </div><!-- /.container-fluid -->
-            </nav>
-          </div>
-        </div>
-        
-      </div>
+      <!--#include file="inc/header.shtml"-->
       <div class="main"></div>
-      <div class="footer"></div>
+      <!--#include file="inc/footer.shtml"-->
     </div>
-    <!--#include file="inc/footer.shtml"-->
+    <!--#include file="inc/footer-js.shtml"-->
   </body>
 </html>

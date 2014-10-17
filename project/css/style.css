@@ -1,5 +1,5 @@
 @charset "utf-8";
-body{font-family: "Microsoft YaHei";}
+body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .header{ background: #33465d;}
 .header .navbar-top{ background: #33465d;border-color:#33465d;}
 .header .navbar-default .navbar-brand{ color: white;}
