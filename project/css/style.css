@@ -28,9 +28,12 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .ul-left li{ list-style: none; margin-bottom: 4px;}
 .ul-left li a{ padding: 15px 10px 15px 36px; display: block; color: #6c6c6c; font-size: 12px;}
 .ul-left li a .co{ margin-right: 10px; color: #c5c9ce; font-size: 14px;vertical-align: middle;}
+.ul-left li a .icon-chevron-right{ display: none; margin-right: 18px; color: #768082; font-size: 12px; line-height: 1.42857; vertical-align: middle;}
 .ul-left li a:hover{ text-decoration: none; color: #0063dc;}
 .ul-left li a:hover,
 .ul-left li.active a{ border-left:4px solid #ed5565; padding-left: 32px; background-color: #f6f8fa;}
+.ul-left li a:hover .icon-chevron-right,
+.ul-left li.active a .icon-chevron-right{ display: block;}
 .hr-line div{ margin: 0 10px 0 36px; height: 1px; border-bottom: 1px dashed #f1f1f3;}
 
 
@@ -58,6 +61,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 	.ul-left li a:hover,
 	.ul-left li.active a{ padding-left: 16px;}
 	.main-left{margin-bottom: 10px;}
+	.ul-left li a .icon-chevron-right{margin-right: 0;}
 }
 @media (min-width: 1200px) {
 	.header .navbar{ margin-top: 13px;}
