@@ -2,6 +2,7 @@
 body{font-family: "Microsoft YaHei";}
 .header{ background: #33465d;}
 .header .navbar-top{ background: #33465d;border-color:#33465d;}
+.header .navbar-default .navbar-brand{ color: white;}
 .header .navbar-top .navbar-nav > .active > a,
 .header .navbar-top .navbar-nav > .active > a:hover,
 .header .navbar-top .navbar-nav > .active > a:focus{background: #33465d; color: #c7d0df;}
@@ -9,9 +10,13 @@ body{font-family: "Microsoft YaHei";}
 .header .navbar-top .navbar-nav > li > a:hover,
 .header .navbar-top .navbar-nav > li > a:focus{background: #33465d; color: #c7d0df;}
 .header .navbar-login > li > span { display: block; padding-top: 10px; padding-bottom: 10px; line-height: 20px; color: white}
-
 .navbar-top .container-fluid{ padding-left: 0;}
 .navbar-top .navbar-collapse{ padding-left: 0;}
+.header .navbar-default .navbar-toggle {  border-color: #24364b;}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {background-color: #24364b;}
+.header .navbar-default .navbar-collapse{ border-color: #24364b;}
+
 @media (max-width: 768px) {
 	.container{padding:0; }
 }
