@@ -43,11 +43,11 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle">
+                            <td>
                               <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
                             </td>
-                            <td class="middle"><span>09-06</span></td>
-                            <td class="middle"><a class="color-link" href="#">暂停</a> <a class="color-link" href="#">隐藏</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></td></div>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -56,11 +56,11 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle">
+                            <td>
                               <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
                             </td>
-                            <td class="middle"><span>09-06</span></td>
-                            <td class="middle"><a class="color-link" href="#">暂停</a> <a class="color-link" href="#">隐藏</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></td></div>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -69,11 +69,11 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle">
+                            <td>
                               <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
                             </td>
-                            <td class="middle"><span>09-06</span></td>
-                            <td class="middle"><a class="color-link" href="#">暂停</a> <a class="color-link" href="#">隐藏</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></td></div>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -82,11 +82,11 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle">
+                            <td>
                               <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
                             </td>
-                            <td class="middle"><span>09-06</span></td>
-                            <td class="middle"><a class="color-link" href="#">暂停</a> <a class="color-link" href="#">隐藏</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></td></div>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -95,11 +95,11 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle">
+                            <td>
                               <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
                             </td>
-                            <td class="middle"><span>09-06</span></td>
-                            <td class="middle"><a class="color-link" href="#">暂停</a> <a class="color-link" href="#">隐藏</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></td></div>
                           </tr>
                         </tbody>
                       </table>

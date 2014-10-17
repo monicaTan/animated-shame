@@ -2,7 +2,7 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8">
-    <title>财务记录</title>
+    <title>邀约记录统计</title>
     <!--#include file="inc/common.shtml"-->
     <!--#include file="inc/ie-js.shtml"-->
   </head>
@@ -12,19 +12,13 @@
       <div class="main">
         <div class="main-inner">
           <div class="container">
-            <!--#include file="inc/main-left.shtml"-->
+            <!--#include file="inc/main-left2.shtml"-->
             <div class="col-xs-12 col-sm-9 col-md-8 col-lg-9">
               <div class="main-right">
-                <div class="table-title">
+                <div class="table-title-back">
                   <div class="container-fluid">
-                    <div class="col-xs-12 col-sm-4 col-md-5 col-lg-3">
-                      <h2>财务记录</h2>
-                    </div>
-                    <div class="col-xs-12 col-sm-8 col-md-7 col-lg-9">
-                      <div class="table-title-right">
-                        <span class="monrey-number">账户余额：5000元</span>
-                        <button type="button" class="btn btn-default btn-grey">充值</button>
-                      </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                      <h2>邀约记录统计</h2>
                     </div>
                   </div>
                 </div>
@@ -36,8 +30,8 @@
                             <th><div>ID</div></th>
                             <th><div>候选人</div></th>
                             <th><div>招聘服务顾问<br/>简历| 邀约 | 到达｜录取</div></th>
-                            <th><div>职位｜部门<br/>面试时间 | 地点 | 联系人</div></th>
-                            <th><div>状态</div></th>
+                            <th><div>职位 | 简历 | 邀约<br/>到达｜录用</div></th>
+                            <th><div>操作</div></th>
                           </tr>
                         </thead>
                         <tbody>
@@ -49,12 +43,12 @@
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
                             </td>
                             <td>
-                              <p><a href="#">ios开发</a>  / 研发部</p>
+                              <p><a href="#">ios开发/百度</a></p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><div class="td-div"><a href="#">未邀约</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -64,12 +58,12 @@
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
                             </td>
                             <td>
-                              <p><a href="#">ios开发</a>  / 研发部</p>
+                              <p><a href="#">ios开发/百度</a></p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -79,12 +73,12 @@
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
                             </td>
                             <td>
-                              <p><a href="#">ios开发</a>  / 研发部</p>
+                              <p><a href="#">ios开发/百度</a></p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -94,12 +88,12 @@
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
                             </td>
                             <td>
-                              <p><a href="#">ios开发</a>  / 研发部</p>
+                              <p><a href="#">ios开发/百度</a></p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -109,12 +103,12 @@
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
                             </td>
                             <td>
-                              <p><a href="#">ios开发</a>  / 研发部</p>
+                              <p><a href="#">ios开发/百度</a></p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                         </tbody>
                       </table>

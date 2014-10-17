@@ -48,7 +48,7 @@
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td class="middle"><a class="color-link" href="#">未邀约</a></td>
+                            <td><div class="td-div"><a class="color-link" href="#">未邀约</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -63,7 +63,7 @@
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td class="middle"><span class="red-text">已面试</span><br/><a class="color-link" href="#">录用确认</a></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -78,7 +78,7 @@
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td class="middle"><span class="red-text">已面试</span><br/><a class="color-link" href="#">录用确认</a></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -93,7 +93,7 @@
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td class="middle"><span class="red-text">已面试</span><br/><a class="color-link" href="#">录用确认</a></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -108,7 +108,7 @@
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td class="middle"><span class="red-text">已面试</span><br/><a class="color-link" href="#">录用确认</a></td>
+                            <td><div class="td-div"><span>已面试</span><br/><a href="#">录用确认</a></div></td>
                           </tr>
                         </tbody>
                       </table>

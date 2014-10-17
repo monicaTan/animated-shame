@@ -101,12 +101,14 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .table-default > thead > tr > td,
 .table-default > tbody > tr > td,
 .table-default > tfoot > tr > td{ border-top:1px dashed #e3e4e8; font-size: 12px; color: #6c6c6c;}
-.table > thead > tr > td.middle,
-.table > tbody > tr > td.middle,
-.table > tfoot > tr > td.middle{ vertical-align: middle;}
 .table-default > tbody > tr > td{border-top:none; border-bottom:2px dotted #e3e4e8;}
 .table-default > thead > tr > th{ vertical-align: middle; border-bottom-color: #e3e4e8; font-weight: normal;font-size: 12px; white-space: nowrap;}
+.table-default > thead > tr > td,
+.table-default > tbody > tr > td,
+.table-default > tfoot > tr > td{ vertical-align: middle;}
 .table-default > thead > tr > th > div{ text-align: center; display: inline-block;}
+.table-default > tbody > tr > td .td-div{ text-align: center; display: inline-block;}
+.table-default > tbody > tr > td .td-div a{  color: #0063dc; padding: 0 4px; text-decoration: underline;}
 .table-default > tbody > tr > td > p{ margin-bottom: 0; line-height: 20px;}
 .table-default > tbody > tr > td a{ color: #6c6c6c;}
 .table-default > tbody > tr > td > .color-link{ color: #0063dc;}

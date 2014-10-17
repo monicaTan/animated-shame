@@ -47,8 +47,8 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle"><a href="#">未查看</a></td>
-                            <td class="middle"><span>09-06</span></td>
+                            <td><a href="#">未查看</a></td>
+                            <td><span>09-06</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -61,8 +61,8 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle"><a href="#">约面试</a></td>
-                            <td class="middle"><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">约面试</a></div></td>
+                            <td><span>09-06</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -75,8 +75,8 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle"><a href="#">约面试</a></td>
-                            <td class="middle"><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">约面试</a></div></td>
+                            <td><span>09-06</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -89,8 +89,8 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle"><a href="#">约面试</a></td>
-                            <td class="middle"><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">约面试</a></div></td>
+                            <td><span>09-06</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
@@ -103,8 +103,8 @@
                               <p><a href="#">［12k～15k］ios开发 </a></p>
                               <p>北京  全职  本科  3～5年经验 </p>
                             </td>
-                            <td class="middle"><a href="#">约面试</a></td>
-                            <td class="middle"><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">约面试</a></div></td>
+                            <td><span>09-06</span></td>
                           </tr>
                         </tbody>
                       </table>

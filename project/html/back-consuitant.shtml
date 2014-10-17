@@ -2,7 +2,7 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8">
-    <title>公司信息管理</title>
+    <title>招聘顾问管理</title>
     <!--#include file="inc/common.shtml"-->
     <!--#include file="inc/ie-js.shtml"-->
   </head>
@@ -18,7 +18,7 @@
                 <div class="table-title-back">
                   <div class="container-fluid">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                      <h2>公司信息管理</h2>
+                      <h2>招聘顾问管理</h2>
                     </div>
                   </div>
                 </div>
@@ -28,9 +28,8 @@
                         <thead>
                           <tr>
                             <th><div>ID</div></th>
-                            <th><div>公司｜城市<br/>全名 | 规模 | 阶段｜网址</div></th>
-                            <th><div>联系人｜电话</div></th>
-                            <th><div>职位 | 简历 | 邀约<br/>到达｜录用</div></th>
+                            <th><div>编号｜姓名<br/>城市 | 手机 | 擅长</div></th>
+                            <th><div>招聘服务顾问<br/>简历 | 邀约 | 到达｜录取</div></th>
                             <th><div>注册时间</div></th>
                             <th><div>操作</div></th>
                           </tr>
@@ -39,91 +38,76 @@
                           <tr>
                             <td>1</td>
                             <td>
-                            <P><a href="#">百度/北京 </a></P>
-                            <P>北京百度科技有限公司</P>
-                            <P>15～50人  成长期</P>
-                            <P><a href="#">http://www.baidu.com</a></P>
-                            </td>
-                            <td>
-                              <p><a href="#">张杰</a></p>
-                              <p>1389232873824</p>
+                              <p><a href="#">002顾问  张三 </a></p>
+                              <p>北京/133333333333</p>
+                              <p>擅长IOS安卓 拷贝</p>
                             </td>
                             <td>
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</a></p>
                             </td>
-                            <td><span>09-06</span></td>
+                            <td>
+                              <P>09-06</P>
+                            </td>
                             <td><div class="td-div"><a href="#">编辑</a> <a class="color-link" href="#">禁止</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
                             <td>
-                            <P><a href="#">百度/北京 </a></P>
-                            <P>北京百度科技有限公司</P>
-                            <P>15～50人  成长期</P>
-                            <P><a href="#">http://www.baidu.com</a></P>
-                            </td>
-                            <td>
-                              <p><a href="#">张杰</a></p>
-                              <p>1389232873824</p>
+                              <p><a href="#">002顾问  张三 </a></p>
+                              <p>北京/133333333333</p>
+                              <p>擅长IOS安卓 拷贝</p>
                             </td>
                             <td>
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</a></p>
                             </td>
-                            <td><span>09-06</span></td>
+                            <td>
+                              <P>09-06</P>
+                            </td>
+                            <td><a class="color-link" href="#">编辑</a> <a class="color-link" href="#">启用</a></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                              <p><a href="#">002顾问  张三 </a></p>
+                              <p>北京/133333333333</p>
+                              <p>擅长IOS安卓 拷贝</p>
+                            </td>
+                            <td>
+                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</a></p>
+                            </td>
+                            <td>
+                              <P>09-06</P>
+                            </td>
                             <td><div class="td-div"><a href="#">编辑</a> <a class="color-link" href="#">禁止</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
                             <td>
-                            <P><a href="#">百度/北京 </a></P>
-                            <P>北京百度科技有限公司</P>
-                            <P>15～50人  成长期</P>
-                            <P><a href="#">http://www.baidu.com</a></P>
-                            </td>
-                            <td>
-                              <p><a href="#">张杰</a></p>
-                              <p>1389232873824</p>
+                              <p><a href="#">002顾问  张三 </a></p>
+                              <p>北京/133333333333</p>
+                              <p>擅长IOS安卓 拷贝</p>
                             </td>
                             <td>
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</a></p>
                             </td>
-                            <td><span>09-06</span></td>
+                            <td>
+                              <P>09-06</P>
+                            </td>
                             <td><div class="td-div"><a href="#">编辑</a> <a class="color-link" href="#">禁止</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
                             <td>
-                            <P><a href="#">百度/北京 </a></P>
-                            <P>北京百度科技有限公司</P>
-                            <P>15～50人  成长期</P>
-                            <P><a href="#">http://www.baidu.com</a></P>
-                            </td>
-                            <td>
-                              <p><a href="#">张杰</a></p>
-                              <p>1389232873824</p>
+                              <p><a href="#">002顾问  张三 </a></p>
+                              <p>北京/133333333333</p>
+                              <p>擅长IOS安卓 拷贝</p>
                             </td>
                             <td>
                               <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</a></p>
                             </td>
-                            <td><span>09-06</span></td>
-                            <td><div class="td-div"><a href="#">编辑</a> <a class="color-link" href="#">禁止</a></div></td>
-                          </tr>
-                          <tr>
-                            <td>1</td>
                             <td>
-                            <P><a href="#">百度/北京 </a></P>
-                            <P>北京百度科技有限公司</P>
-                            <P>15～50人  成长期</P>
-                            <P><a href="#">http://www.baidu.com</a></P>
+                              <P>09-06</P>
                             </td>
-                            <td>
-                              <p><a href="#">张杰</a></p>
-                              <p>1389232873824</p>
-                            </td>
-                            <td>
-                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</a></p>
-                            </td>
-                            <td><span>09-06</span></td>
                             <td><div class="td-div"><a href="#">编辑</a> <a class="color-link" href="#">禁止</a></div></td>
                           </tr>
                         </tbody>
