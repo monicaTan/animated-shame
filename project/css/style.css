@@ -44,6 +44,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .table-title-right .btn-grey{ background: #a4a9ae; border-color: #a4a9ae; color: white; padding: 6px 24px;}
 
 .table-right{padding: 10px 28px;}
+.page-moudel{padding: 0 28px 20px;}
 .table-default > thead > tr > th,
 .table-default > tbody > tr > th,
 .table-default > tfoot > tr > th,
@@ -57,6 +58,24 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .table-default > tbody > tr > td > a{ color: #6c6c6c;}
 .table-default > tbody > tr > td > .red-text{ color: #ed5565;}
 
+.pagination-default > li > a,
+.pagination-default > li > span{ border: none; color: #a4a9ae;}
+.pagination-default > li > a:hover,
+.pagination-default > li > span:hover{ background: transparent;}
+.pagination-default > .active > a:hover,
+.pagination-default > .active > span:hover{ background: transparent; color: #ed5565;}
+.pagination-default > li:first-child > a,
+.pagination-default > li:first-child > span,
+.pagination-default > li:last-child > a,
+.pagination-default > li:last-child > span{ background: #5d9cec; color: white; padding: 6px 12px 4px; border: none; border-bottom: 3px solid #4a89dc; border-radius: 4px;}
+.pagination-default > .active > a,
+.pagination-default > .active > span{ color: #ed5565; background: transparent;}
+.pagination-default > .disabled > span,
+.pagination-default > .disabled > span:hover,
+.pagination-default > .disabled > span:focus,
+.pagination-default > .disabled > a,
+.pagination-default > .disabled > a:hover,
+.pagination-default > .disabled > a:focus{ background: #5d9cec;border-bottom: 3px solid #4a89dc; color: white;}
 
 
 @media (min-width: 768px) {
@@ -85,9 +104,11 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 	.table-title-right {text-align: left;}
 	.table-title-right .monrey-number{ margin-right:10px;}
 	.table-right{padding: 10px 15px;}
+	.page-moudel{padding: 0 15px 20px;}
 }
 @media (max-width: 980px) {
 	.table-right{padding: 10px 15px;}
+	.page-moudel{padding: 0 15px 20px;}
 }
 @media (min-width: 1200px) {
 	.header .navbar{ margin-top: 13px;}
