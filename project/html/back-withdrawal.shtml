@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <title>奖金提现审核</title>
+    <!--#include file="inc/common.shtml"-->
+    <!--#include file="inc/ie-js.shtml"-->
+  </head>
+  <body>
+    <div class="wrap">
+      <!--#include file="inc/header.shtml"-->
+      <div class="main">
+        <div class="main-inner">
+          <div class="container">
+            <!--#include file="inc/main-left2.shtml"-->
+            <div class="col-xs-12 col-sm-9 col-md-8 col-lg-9">
+              <div class="main-right">
+                <div class="table-title-back">
+                  <div class="container-fluid">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                      <h2>奖金提现审核</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="table-right clearfix">
+                  <div class="table-responsive">
+                    <table class="table table-hover table-default">
+                        <thead>
+                          <tr>
+                            <th><div>ID</div></th>
+                            <th><div>招聘服务顾问｜奖金<br/>简历 | 邀约 | 到达 ｜录取</div></th>
+                            <th><div>提现户名 | 卡号 | 开户行</div></th>
+                            <th><div>提现金额</div></th>
+                            <th><div>操作</div></th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">003号顾问   奖金200</a></P>
+                            <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle">
+                              <p>户名：张三</p>
+                              <p>卡号：6225 7888 9999 333</p>
+                              <p>开户行：工行北京市展览路支行</p>
+                            </td>
+                            <td class="middle">
+                              <p><span class="red-text">2000</span></p>
+                            </td>
+                            <td class="middle">
+                              <a class="color-link" href="#">未打款</a>
+                              <p>09-06</p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">003号顾问   奖金200</a></P>
+                            <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle">
+                              <p>户名：张三</p>
+                              <p>卡号：6225 7888 9999 333</p>
+                              <p>开户行：工行北京市展览路支行</p>
+                            </td>
+                            <td class="middle">
+                              <p><span class="red-text">2000</span></p>
+                            </td>
+                            <td class="middle">
+                              <a class="color-link" href="#">未打款</a>
+                              <p>09-06</p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">003号顾问   奖金200</a></P>
+                            <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle">
+                              <p>户名：张三</p>
+                              <p>卡号：6225 7888 9999 333</p>
+                              <p>开户行：工行北京市展览路支行</p>
+                            </td>
+                            <td class="middle">
+                              <p><span class="red-text">2000</span></p>
+                            </td>
+                            <td class="middle">
+                              <a class="color-link" href="#">未打款</a>
+                              <p>09-06</p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">003号顾问   奖金200</a></P>
+                            <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle">
+                              <p>户名：张三</p>
+                              <p>卡号：6225 7888 9999 333</p>
+                              <p>开户行：工行北京市展览路支行</p>
+                            </td>
+                            <td class="middle">
+                              <p><span class="red-text">2000</span></p>
+                            </td>
+                            <td class="middle">
+                              <a class="color-link" href="#">未打款</a>
+                              <p>09-06</p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>
+                            <P><a href="#">003号顾问   奖金200</a></P>
+                            <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a> / <a href="#">1%</p>
+                            </td>
+                            <td class="middle">
+                              <p>户名：张三</p>
+                              <p>卡号：6225 7888 9999 333</p>
+                              <p>开户行：工行北京市展览路支行</p>
+                            </td>
+                            <td class="middle">
+                              <p><span class="red-text">2000</span></p>
+                            </td>
+                            <td class="middle">
+                              <a class="color-link" href="#">已打款</a>
+                              <p>09-06</p>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                  </div>
+                </div>
+                <div class="page-moudel clearfix">
+                  <!--#include file="inc/pagination.shtml"-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--#include file="inc/footer.shtml"-->
+    </div>
+    <!--#include file="inc/footer-js.shtml"-->
+  </body>
+</html>
