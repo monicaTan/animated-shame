@@ -1,7 +1,27 @@
 @charset "utf-8";
+body{font-family: "Microsoft YaHei";}
 .header{ background: #33465d;}
+.header .navbar-top{ background: #33465d;border-color:#33465d;}
+.header .navbar-top .navbar-nav > .active > a,
+.header .navbar-top .navbar-nav > .active > a:hover,
+.header .navbar-top .navbar-nav > .active > a:focus{background: #33465d; color: #c7d0df;}
+.header .navbar-top .navbar-nav > li > a{color: white; padding-right: 25px; padding-left: 25px;}
+.header .navbar-top .navbar-nav > li > a:hover,
+.header .navbar-top .navbar-nav > li > a:focus{background: #33465d; color: #c7d0df;}
+.header .navbar-login > li > span { display: block; padding-top: 10px; padding-bottom: 10px; line-height: 20px; color: white}
+
+.navbar-top .container-fluid{ padding-left: 0;}
+.navbar-top .navbar-collapse{ padding-left: 0;}
 @media (max-width: 768px) {
 	.container{padding:0; }
+}
+@media (min-width: 768px) {
+	.header .navbar-top .navbar-nav > li.nav-first > a{ padding-left: 0;}
+  	.header .collapse .navbar-login > li > span {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .header .collapse .navbar-login > li > a{padding-left: 10px; padding-right: 10px;}
 }
 @media (min-width: 1200px) {
 	.header .navbar{ margin-top: 13px;}
