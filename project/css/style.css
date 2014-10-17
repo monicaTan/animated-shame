@@ -1,5 +1,53 @@
 @charset "utf-8";
 body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
+.col-xs-1,
+.col-sm-1,
+.col-md-1,
+.col-lg-1,
+.col-xs-2,
+.col-sm-2,
+.col-md-2,
+.col-lg-2,
+.col-xs-3,
+.col-sm-3,
+.col-md-3,
+.col-lg-3,
+.col-xs-4,
+.col-sm-4,
+.col-md-4,
+.col-lg-4,
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5,
+.col-xs-6,
+.col-sm-6,
+.col-md-6,
+.col-lg-6,
+.col-xs-7,
+.col-sm-7,
+.col-md-7,
+.col-lg-7,
+.col-xs-8,
+.col-sm-8,
+.col-md-8,
+.col-lg-8,
+.col-xs-9,
+.col-sm-9,
+.col-md-9,
+.col-lg-9,
+.col-xs-10,
+.col-sm-10,
+.col-md-10,
+.col-lg-10,
+.col-xs-11,
+.col-sm-11,
+.col-md-11,
+.col-lg-11,
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12{ padding-right: 5px; padding-left: 5px;}
 /*header*/
 .header{ background: #33465d;}
 .header .navbar-top{ background: #33465d;border-color:#33465d;}
@@ -51,7 +99,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .table-default > thead > tr > td,
 .table-default > tbody > tr > td,
 .table-default > tfoot > tr > td{ border-top:1px dashed #e3e4e8; font-size: 12px; color: #6c6c6c;}
-.table-default > tbody > tr > td{border-top:none; border-bottom:1px dashed #e3e4e8;}
+.table-default > tbody > tr > td{border-top:none; border-bottom:2px dotted #e3e4e8;}
 .table-default > thead > tr > th{ border-bottom-color: #e3e4e8; font-weight: normal;font-size: 12px;}
 .table-default > thead > tr > th > div{ text-align: center; display: inline-block;}
 .table-default > tbody > tr > td > p{ margin-bottom: 0; line-height: 20px;}
@@ -79,7 +127,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 
 
 @media (min-width: 768px) {
-	.header .navbar-top .navbar-nav > li.nav-first > a{ padding-left: 0;}
+	.header .navbar-top .navbar-nav > li.nav-first > a{ padding-left: 25px;}
   	.header .collapse .navbar-login > li > span {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -92,6 +140,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 }
 @media (max-width: 768px) {
 	.container{padding:0; }
+	.navbar-top .navbar-collapse{ padding-left: 15px;}
 	.main-inner{margin-top: 15px;}
 	.ul-left li{margin-bottom: 2px;}
 	.ul-left li a{ padding: 10px 10px 10px 20px;}
@@ -111,6 +160,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 	.page-moudel{padding: 0 15px 20px;}
 }
 @media (min-width: 1200px) {
+	.header .navbar-top .navbar-nav > li.nav-first > a{ padding-left: 0;}
 	.header .navbar{ margin-top: 13px;}
 	.main-inner{margin-top: 47px;}
 }
