@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <title>我的人才库</title>
+    <!--#include file="inc/common.shtml"-->
+    <!--#include file="inc/ie-js.shtml"-->
+  </head>
+  <body>
+    <div class="wrap">
+      <!--#include file="inc/header.shtml"-->
+      <div class="main">
+        <div class="main-inner">
+          <div class="container">
+            <!--#include file="inc/main-left3.shtml"-->
+            <div class="col-xs-12 col-sm-9 col-md-8 col-lg-9">
+              <div class="main-right">
+                <div class="table-title">
+                  <div class="container-fluid">
+                    <div class="col-xs-12 col-sm-4 col-md-5 col-lg-3">
+                      <h2>我的人才库</h2>
+                    </div>
+                    <div class="col-xs-12 col-sm-8 col-md-7 col-lg-9">
+                      <div class="table-title-right">
+                        <button type="button" class="btn btn-default btn-grey">录用新人才</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="table-right clearfix">
+                  <div class="table-responsive">
+                    <table class="table table-hover table-default table-center">
+                        <thead>
+                          <tr>
+                            <th><div>ID</div></th>
+                            <th><div>姓名</div></th>
+                            <th><div>手机</div></th>
+                            <th><div>邮箱</th>
+                            <th><div>状态</div></th>
+                            <th><div>邀约/面试</div></th>
+                            <th><div>录用时间</div></th>
+                            <th><div>操作</div></th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td>1</td>
+                            <td><a class="color-link" href="#">张三</a></td>
+                            <td>
+                              <p>13888889999 </p>
+                            </td>
+                            <td>
+                              <p>zhangsan@sina.com</p>
+                            </td>
+                            <td>
+                              <p>离职求职</p>
+                            </td>
+                            <td><a href="#">10/8</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">推职位</a></div></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td><a class="color-link" href="#">张三</a></td>
+                            <td>
+                              <p>13888889999 </p>
+                            </td>
+                            <td>
+                              <p>zhangsan@sina.com</p>
+                            </td>
+                            <td>
+                              <p>在职急找</p>
+                            </td>
+                            <td><a href="#">10/8</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">推职位</a></div></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td><a class="color-link" href="#">张三</a></td>
+                            <td>
+                              <p>13888889999 </p>
+                            </td>
+                            <td>
+                              <p>zhangsan@sina.com</p>
+                            </td>
+                            <td>
+                              <p>在职急找</p>
+                            </td>
+                            <td><a href="#">10/8</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">推职位</a></div></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td><a class="color-link" href="#">张三</a></td>
+                            <td>
+                              <p>13888889999 </p>
+                            </td>
+                            <td>
+                              <p>zhangsan@sina.com</p>
+                            </td>
+                            <td>
+                              <p>在职急找</p>
+                            </td>
+                            <td><a href="#">10/8</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">推职位</a></div></td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td><a class="color-link" href="#">张三</a></td>
+                            <td>
+                              <p>13888889999 </p>
+                            </td>
+                            <td>
+                              <p>zhangsan@sina.com</p>
+                            </td>
+                            <td>
+                              <p>在职急找</p>
+                            </td>
+                            <td><a href="#">10/8</a></td>
+                            <td><span>09-06</span></td>
+                            <td><div class="td-div"><a href="#">推职位</a></div></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                  </div>
+                </div>
+                <div class="page-moudel clearfix">
+                  <!--#include file="inc/pagination.shtml"-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--#include file="inc/footer.shtml"-->
+    </div>
+    <!--#include file="inc/footer-js.shtml"-->
+  </body>
+</html>

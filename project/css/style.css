@@ -72,6 +72,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .main-left,
 .main-right{ background-color: white; border-radius: 4px; border-bottom: 3px solid #e3e4e8;}
 .main-left{ padding: 10px 0;}
+.main-right{ min-height: 437px; *height:437px;}
 .ul-left{ margin: 0; padding: 0;}
 .ul-left li{ list-style: none; margin-bottom: 4px;}
 .ul-left li a{ padding: 15px 10px 15px 36px; display: block; color: #6c6c6c; font-size: 12px;}
@@ -114,6 +115,13 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .table-default > tbody > tr > td a{ color: #6c6c6c;}
 .table-default > tbody > tr > td > .color-link{ color: #0063dc;}
 .table-default > tbody > tr > td .red-text{ color: #ed5565;}
+
+.table-center > thead > tr > th,
+.table-center > tbody > tr > th,
+.table-center > tfoot > tr > th,
+.table-center > thead > tr > td,
+.table-center > tbody > tr > td,
+.table-center > tfoot > tr > td{ text-align: center;}
 
 .pagination-default > li > a,
 .pagination-default > li > span{ border: none; color: #a4a9ae;}
