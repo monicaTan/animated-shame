@@ -20,8 +20,9 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav">
-                    <li class="nav-first active"><a href="#">我是企业</a></li>
+                    <li class="nav-first active"><a href="position-management.shtml">我是企业</a></li>
                     <li><a href="#">我是招聘顾问</a></li>
+                    <li><a href="back-position.shtml">我是管理员</a></li>
                   </ul>
                   <ul class="nav navbar-nav navbar-right navbar-login">
                     <li><a href="#"><i class="fa fa-power-off"></i> 登录</a></li>

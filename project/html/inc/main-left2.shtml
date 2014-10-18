@@ -1,13 +1,13 @@
             <div class="col-xs-12 col-sm-3 col-md-4 col-lg-3">
               <div class="main-left">
                 <ul class="ul-left">
-                  <li><a href="#"><span class="co icon-user"></span>职位管理<span class="icon-chevron-right pull-right"></span></a></li>
-                  <li><a href="#"><span class="co icon-list"></span>招聘顾问管理<span class="icon-chevron-right pull-right"></span></a></li>
-                  <li><a href="#"><span class="co icon-board"></span>人才推荐管理<span class="icon-chevron-right pull-right"></span></a></li>
-                  <li><a href="#"><i class="co fa fa-search"></i>邀约记录统计<span class="icon-chevron-right pull-right"></span></a></li>
+                  <li class="active"><a href="back-position.shtml"><span class="co icon-user"></span>职位管理<span class="icon-chevron-right pull-right"></span></a></li>
+                  <li><a href="back-consuitant.shtml"><span class="co icon-list"></span>招聘顾问管理<span class="icon-chevron-right pull-right"></span></a></li>
+                  <li><a href="back-talent.shtml"><span class="co icon-board"></span>人才推荐管理<span class="icon-chevron-right pull-right"></span></a></li>
+                  <li><a href="back-invitation.shtml"><i class="co fa fa-search"></i>邀约记录统计<span class="icon-chevron-right pull-right"></span></a></li>
                   <li class="hr-line"><div></div></li>
-                  <li class="active"><a href="#"><span class="co icon-clipboard"></span>奖金提现审核<span class="icon-chevron-right pull-right"></span></a></li>
-                  <li><a href="#"><i class="co fa fa-suitcase"></i>公司信息管理<span class="icon-chevron-right pull-right"></span></a></li>
+                  <li><a href="back-withdrawal.shtml"><span class="co icon-clipboard"></span>奖金提现审核<span class="icon-chevron-right pull-right"></span></a></li>
+                  <li><a href="back-company-information.shtml"><i class="co fa fa-suitcase"></i>公司信息管理<span class="icon-chevron-right pull-right"></span></a></li>
                   <li><a href="#"><i class="co fa fa-power-off"></i>退出<span class="icon-chevron-right pull-right"></span></a></li>
                 </ul>
               </div>
