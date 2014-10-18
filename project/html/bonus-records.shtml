@@ -22,8 +22,9 @@
                     </div>
                     <div class="col-xs-12 col-sm-8 col-md-7 col-lg-9">
                       <div class="table-title-right">
-                        <span class="monrey-number">账户余额：5000元</span>
-                        <button type="button" class="btn btn-default btn-grey">充值</button>
+                        <span class="monrey-number">奖金总计：<em>5500</em>元</span>
+                        <span class="monrey-number">未提现余额：5500元</span>
+                        <button type="button" class="btn btn-default btn-grey">提现</button>
                       </div>
                     </div>
                   </div>
@@ -34,87 +35,66 @@
                         <thead>
                           <tr>
                             <th><div>ID</div></th>
-                            <th><div>候选人</div></th>
-                            <th><div>招聘服务顾问<br/>简历| 邀约 | 到达｜录取</div></th>
-                            <th><div>职位｜部门<br/>面试时间 | 地点 | 联系人</div></th>
-                            <th><div>状态</div></th>
+                            <th><div>姓名 | 手机</div></th>
+                            <th><div>职位｜公司｜面试时间 | 地点 | 联系人</div></th>
+                            <th><div>奖金金额</div></th>
                           </tr>
                         </thead>
                         <tbody>
                           <tr>
                             <td>1</td>
-                            <td><a href="#">张三</a></td>
-                            <td>
-                              <p><a href="#">003号顾问</a></p>
-                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
-                            </td>
+                            <td><a href="#">张三/13366668888</a></td>
                             <td>
                               <p><a href="#">ios开发</a>  / 研发部</p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><span class="red-text">200元</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
-                            <td><a href="#">张三</a></td>
-                            <td>
-                              <p><a href="#">003号顾问</a></p>
-                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
-                            </td>
+                            <td><a href="#">张三/13366668888</a></td>
                             <td>
                               <p><a href="#">ios开发</a>  / 研发部</p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><span class="red-text">200元</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
-                            <td><a href="#">张三</a></td>
-                            <td>
-                              <p><a href="#">003号顾问</a></p>
-                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
-                            </td>
+                            <td><a href="#">张三/13366668888</a></td>
                             <td>
                               <p><a href="#">ios开发</a>  / 研发部</p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><span class="red-text">200元</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
-                            <td><a href="#">张三</a></td>
-                            <td>
-                              <p><a href="#">003号顾问</a></p>
-                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
-                            </td>
+                            <td><a href="#">张三/13366668888</a></td>
                             <td>
                               <p><a href="#">ios开发</a>  / 研发部</p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><span class="red-text">200元</span></td>
                           </tr>
                           <tr>
                             <td>1</td>
-                            <td><a href="#">张三</a></td>
-                            <td>
-                              <p><a href="#">003号顾问</a></p>
-                              <p><a href="#">2%</a> / <a href="#">10%</a> / <a href="#">8%</a> / <a href="#">5%</a></p>
-                            </td>
+                            <td><a href="#">张三/13366668888</a></td>
                             <td>
                               <p><a href="#">ios开发</a>  / 研发部</p>
                               <p>时间：10-25 15:00</p>
                               <p>地点：海淀区知春路坤讯大厦1105#</p>
                               <p>联系人：邹昊 18645587885</p>
                             </td>
-                            <td><span class="red-text">200</span></td>
+                            <td><span class="red-text">200元</span></td>
                           </tr>
                         </tbody>
                       </table>

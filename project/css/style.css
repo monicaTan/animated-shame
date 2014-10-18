@@ -91,6 +91,7 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .table-title-back h2{ font-size: 16px; color: #434a54; margin:10px 0;}
 .table-title-right{ text-align: right;}
 .table-title-right .monrey-number{ margin-right: 28px;}
+.table-title-right .monrey-number em{font-style: normal; color: #ed5565;}
 .table-title-right .btn-grey{ background: #a4a9ae; border-color: #a4a9ae; color: white; padding: 6px 24px;}
 
 .table-right{padding: 10px 28px;}

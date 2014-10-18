@@ -30,8 +30,9 @@
                             <th><div>ID</div></th>
                             <th><div>候选人</div></th>
                             <th><div>月薪｜职位<br/>城市 | 学历 | 经验</div></th>
-                            <th><div>需求｜简历｜邀约 | 面试 | 录用</div></th>
-                            <th><div>录用日期</div></th>
+                            <th><div>公司<br/>阶段 | 规模 | 领域</div></th>
+                            <th><div>邀约/面试</div></th>
+                            <th><div>录入时间</div></th>
                             <th><div>操作</div></th>
                           </tr>
                         </thead>
@@ -40,66 +41,86 @@
                             <td>1</td>
                             <td><a href="#">张三</a></td>
                             <td>
-                              <p><a href="#">［12k～15k］ios开发 </a></p>
-                              <p>北京  全职  本科  3～5年经验 </p>
+                              <p><a href="#">[12~15k] ios开发</a></p>
+                              <p>月薪12k～15k  面试奖<span class="red-text">200</span></p>
+                              <p>全职 本科 3～5年经验</p>
                             </td>
                             <td>
-                              <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
+                              <p><a href="#">百度</a></p>
+                              <p>上市公司  2000以上</p>
+                              <p>领域：移动互联网 </p>
                             </td>
+                            <td><p><a href="#">2</a> / <a href="#">10</a></td>
                             <td><span>09-06</span></td>
-                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></div></td>
+                            <td><div class="td-div"><a href="#">推荐人才</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
                             <td><a href="#">张三</a></td>
                             <td>
-                              <p><a href="#">［12k～15k］ios开发 </a></p>
-                              <p>北京  全职  本科  3～5年经验 </p>
+                              <p><a href="#">[12~15k] ios开发</a></p>
+                              <p>月薪12k～15k  面试奖<span class="red-text">200</span></p>
+                              <p>全职 本科 3～5年经验</p>
                             </td>
                             <td>
-                              <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
+                              <p><a href="#">百度</a></p>
+                              <p>上市公司  2000以上</p>
+                              <p>领域：移动互联网 </p>
                             </td>
+                            <td><p><a href="#">2</a> / <a href="#">10</a></td>
                             <td><span>09-06</span></td>
-                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></div></td>
+                            <td><div class="td-div"><a href="#">推荐人才</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
                             <td><a href="#">张三</a></td>
                             <td>
-                              <p><a href="#">［12k～15k］ios开发 </a></p>
-                              <p>北京  全职  本科  3～5年经验 </p>
+                              <p><a href="#">[12~15k] ios开发</a></p>
+                              <p>月薪12k～15k  面试奖<span class="red-text">200</span></p>
+                              <p>全职 本科 3～5年经验</p>
                             </td>
                             <td>
-                              <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
+                              <p><a href="#">百度</a></p>
+                              <p>上市公司  2000以上</p>
+                              <p>领域：移动互联网 </p>
                             </td>
+                            <td><p><a href="#">2</a> / <a href="#">10</a></td>
                             <td><span>09-06</span></td>
-                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></div></td>
+                            <td><div class="td-div"><a href="#">推荐人才</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
                             <td><a href="#">张三</a></td>
                             <td>
-                              <p><a href="#">［12k～15k］ios开发 </a></p>
-                              <p>北京  全职  本科  3～5年经验 </p>
+                              <p><a href="#">[12~15k] ios开发</a></p>
+                              <p>月薪12k～15k  面试奖<span class="red-text">200</span></p>
+                              <p>全职 本科 3～5年经验</p>
                             </td>
                             <td>
-                              <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
+                              <p><a href="#">百度</a></p>
+                              <p>上市公司  2000以上</p>
+                              <p>领域：移动互联网 </p>
                             </td>
+                            <td><p><a href="#">2</a> / <a href="#">10</a></td>
                             <td><span>09-06</span></td>
-                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></div></td>
+                            <td><div class="td-div"><a href="#">推荐人才</a></div></td>
                           </tr>
                           <tr>
                             <td>1</td>
                             <td><a href="#">张三</a></td>
                             <td>
-                              <p><a href="#">［12k～15k］ios开发 </a></p>
-                              <p>北京  全职  本科  3～5年经验 </p>
+                              <p><a href="#">[12~15k] ios开发</a></p>
+                              <p>月薪12k～15k  面试奖<span class="red-text">200</span></p>
+                              <p>全职 本科 3～5年经验</p>
                             </td>
                             <td>
-                              <p><a href="#">2</a> / <a href="#">10</a> / <a href="#">8</a> / <a href="#">5</a> / <a href="#">1 </p>
+                              <p><a href="#">百度</a></p>
+                              <p>上市公司  2000以上</p>
+                              <p>领域：移动互联网 </p>
                             </td>
+                            <td><p><a href="#">2</a> / <a href="#">10</a></td>
                             <td><span>09-06</span></td>
-                            <td><div class="td-div"><a href="#">暂停</a><a class="color-link" href="#">隐藏</a></div></td>
+                            <td><div class="td-div"><a href="#">推荐人才</a></div></td>
                           </tr>
                         </tbody>
                       </table>
