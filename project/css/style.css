@@ -143,6 +143,22 @@ body{font-family: "Microsoft YaHei"; background-color: #f0f2f5;}
 .pagination-default > .disabled > a:focus{ background: #5d9cec;border-bottom: 3px solid #4a89dc; color: white;}
 
 
+/*details*/
+.details-left,
+.details-right{ background-color: white; border-radius: 4px; border-bottom: 3px solid #e3e4e8;}
+.details-left{ padding: 10px 0; min-height: 437px; *height:437px;}
+.details-left-inner{margin: 20px 20px 0; padding-bottom: 20px;}
+.details-title-box{ border-bottom: 2px solid #ffc600;}
+.details-right-inner{padding: 20px;}
+.details-left-inner .container-fluid{padding: 0;}
+.details-title h1{ margin: 0 0 15px; color: #333; font-size: 24px;}
+.details-title p{ margin-bottom: 0; color: #808080; font-size: 16px;}
+.details-button { padding-top: 10px;}
+.details-button .btn{ background: #1e52b2; border-color: #1e52b2;}
+.description-text{ margin-top: 20px;}
+.description-text pre { background-color: white; border:none; border-radius: 0; color: #363636; display: block; font-size: 14px; line-height: 1.42857; margin: 0 0 10px; padding: 10px; word-break: break-all; word-wrap: break-word; font-family: "Microsoft YaHei";}
+.description-text .description{ font-size: 18px; color: #363636; padding: 10px;}
+
 @media (min-width: 768px) {
 	.header .navbar-top .navbar-nav > li.nav-first > a{ padding-left: 25px;}
   	.header .collapse .navbar-login > li > span {

@@ -12,11 +12,74 @@
       <div class="main">
         <div class="main-inner">
           <div class="container">
-            <div class="col-xs-12 col-sm-3 col-md-4 col-lg-3">
-              <div class="main-left">left</div>
+            <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <div class="details-left">
+                <div class="details-left-inner">
+                  <div class="details-title-box">
+                    <div class="container-fluid">
+                      <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9">
+                        <div class="details-title">
+                          <h1>测试</h1>
+                          <p>北京测试科技有限公司</p>
+                          <p>“上市公司。牛b的很”</p>
+                        </div>
+                      </div>
+                      <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+                        <div class="details-button clearfix">
+                          <button type="button" class="btn btn-primary pull-right">我要应聘</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="description-text">
+                    <h2 class="description">职位描述</h2>
+                    <pre>公司名称：北京小桔科技有限公司（对，我们就是有名的嘀嘀打车！）
+所属行业：移动互联网（哪都不去，死磕移动出行领域）
+公司性质：外资（一个外国人都米有）
+公司规模：300人（分分钟在增加，根本停不下来！）
+
+联系人：被技术VP和各组长逼疯的Angela
+
+【胆小者慎入】
+我们从某度，某浪，某为，某秦，某客，某软，某古等大牛公司搜罗来：
+最闷骚的程序猿
+最没下限的技术宅
+最“不靠谱”的RD
+帅到万人斩的UE
+卖肾买macpro顶配的猥琐果粉码农
+长的像宋小宝的IOS组长
+神似张智霖的PHP负责人
+痴迷“变态教授无名”的小清新PM
+一个测试组是男组长带一堆女测试猿
+another测试组是女组长带一堆男测试猿
+
+拼时集体不洗澡、不洗脸、不吃饭、不泡妞、不捡肥皂～
+High时节操粉碎性骨折、下限离家出走～
+
+够强够胆，就来试试思密达～
+相信“相信的力量”啊啦啦～
+
+岗位职责
+1）负责公司内部统计分析系统的研发；
+2）维护、管理和优化公司Hadoop/HBase；
+3）相关部门统计分析项目支持；
+
+任职资格
+1）精通java高并发多线程开发，熟悉jvm内存管理，能够进行MapReduce程序的开发
+2）深刻理解各类基本算法、数据结构的原理；
+3）熟悉linux、tcp/ip、等编程相关基础知识；
+4）最好研究过Hadoop、HBase、Hive等开源软件源码，并对coding保持强烈兴趣者；
+5）对于Hive能够进行数据操作和服务；
+6）良好的团队合作，较强的沟通能力，对解决挑战型问题充满激情
+7）计算机及相关专业本科以上</pre>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div class="col-xs-12 col-sm-9 col-md-8 col-lg-9">
-              <div class="main-right">right</div>
+            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <div class="details-right">
+                <div class="details-right-inner">RIGHT</div>
+              </div>
             </div>
           </div>
         </div>
