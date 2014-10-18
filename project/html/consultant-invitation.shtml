@@ -12,7 +12,7 @@
       <div class="main">
         <div class="main-inner">
           <div class="container">
-            <!--#include file="inc/main-left.shtml"-->
+            <!--#include file="inc/main-left3.shtml"-->
             <div class="col-xs-12 col-sm-9 col-md-8 col-lg-9">
               <div class="main-right">
                 <div class="table-title">
